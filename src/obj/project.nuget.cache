@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKlKZyn0340IR6YfslP/6mtihlXsoaEkjjoQnVXl9PhKf/+oP+LMgfYDuI4wKL21bMUriHXTV1unp17WG/uPaQ==",
+  "success": true,
+  "projectFilePath": "/home/nulzhar/repo/cnj-capturas/src/crawler-cnj.csproj",
+  "expectedPackageFiles": [
+    "/home/nulzhar/.nuget/packages/htmlagilitypack/1.11.54/htmlagilitypack.1.11.54.nupkg.sha512",
+    "/home/nulzhar/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
